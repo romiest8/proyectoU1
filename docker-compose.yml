@@ -1,3 +1,7 @@
+# Alumno: Angel Arturo Moreno
+# Docente: Froylan Alonso Perez Alanis 
+# Automatizacion de infraestructura digital II
+
 version: "3.8"
 
 services:
