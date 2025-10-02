@@ -1,7 +1,7 @@
 # Alumno: Angel Arturo Moreno
 # Docente: Froylan Alonso Perez Alanis 
 # Automatizacion de infraestructura digital II
-FRO python:3.10-slim
+FROM python:3.10-slim
 
 WORKDIR /app
 COPY requirements.txt requirements.txt
